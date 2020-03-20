@@ -5,7 +5,7 @@
 # Introduction
   This application processes customer orders for a deposit. Relational databases are used to store products, customers and orders. CRUD operations are implemented for the database.
 # Pre-requisites
-  - This app is independent of operating system, but it needs Java.
+  - This app is independent of the operating system, but it needs Java.
   - Make deserialization first, to add products to the menu. After this, you can comment these lines of code, and make serialization for saving products that will be added.
 # Getting Started
   1. Download code.
