@@ -1,12 +1,12 @@
-# Order-Management
-  In this app I use:
-- connection to a database for storing datas.
-- Reflection tehnique for creating and populating tables used on app.
+# Order-Management App
+  In this app I used:
+- PostgreSQL 
+- Reflection tehniques for the generic creating and populating tables.
 # Introduction
-  This application processes customer orders for a deposit. Relational databases are used to store products, customers and orders. CRUD operations are implemented for the database.
+  This application processes customer orders for a warehouse. Relational databases are used to store products, customers and orders (CRUD operations are implemented).
 # Pre-requisites
-  - This app is independent of the operating system, but it needs Java.
-  - Make deserialization first, to add products to the menu. After this, you can comment these lines of code, and make serialization for saving products that will be added.
+  - This app is independent of the operating system
+  - Java JDK 8
 # Getting Started
   1. Download code.
   2. Open code in a Java IDE (like Eclipse or Intellij)
